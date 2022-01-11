@@ -15,7 +15,7 @@
 
 ---
 
-Remove the main suffix from the downloaded folder, and use
+Remove the "main" suffix from the downloaded folder, and use
 
 > ./spicetify config current_theme Comfy-Zizu
 
