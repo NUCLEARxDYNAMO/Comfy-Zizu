@@ -1,4 +1,4 @@
-![Preview](https://user-images.githubusercontent.com/22730962/146606899-d3a1a2a9-b03f-43e2-91d1-b32dce219c2f.png)
+![Preview](https://github.com/ShaunakPemmaraju/Comfy-Zizu/blob/main/preview-of-main.png)
 
 Comfy-Zizu by NUCLEARxDYNAMO for Spicetify.
 Credit to @NYRIA and in collab with @Juiceboxx
