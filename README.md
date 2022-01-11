@@ -18,9 +18,10 @@
 Remove the main suffix from the downloaded folder, and use
 
 > ./spicetify config current_theme Comfy-Zizu
+
 > ./spicetify apply
 
-Voila, you're theme is now applied!
+Voila, your theme is now applied!
 
 Second, change overwite_assets value to 1 in your config-xpui.ini.
 
