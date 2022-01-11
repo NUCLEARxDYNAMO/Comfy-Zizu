@@ -25,7 +25,7 @@ Voila, your theme is now applied!
 
 Second, change overwite_assets value to 1 in your config-xpui.ini.
 
-For later customization and tweaks of your own, feel free to pole around!
+For later customization and tweaks of your own, feel free to poke around!
 
 Go into your theme folder and open either :
 
