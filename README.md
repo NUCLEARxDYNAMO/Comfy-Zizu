@@ -14,7 +14,12 @@
 ## 🖌️ Customization
 
 ---
+###Installation Method-1
 
+Use (https://github.com/ShaunakPemmaraju/Comfy-Zizu/blob/main/spicetify-theme-installer.py) to install the theme directly with no hassle.
+  Requires python3.
+---
+###Installation Method-2
 Remove the "main" suffix from the downloaded folder, and use
 
 > ./spicetify config current_theme Comfy-Zizu
@@ -24,6 +29,8 @@ Remove the "main" suffix from the downloaded folder, and use
 Voila, your theme is now applied!
 
 Second, change overwite_assets value to 1 in your config-xpui.ini.
+
+---
 
 For later customization and tweaks of your own, feel free to poke around!
 
