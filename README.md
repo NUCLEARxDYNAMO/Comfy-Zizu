@@ -16,6 +16,8 @@
 ---
 ### Installation Method-1
 
+##### For linux Users only.
+
 Use (https://github.com/ShaunakPemmaraju/Comfy-Zizu/blob/main/spicetify-theme-installer.py) to install the theme directly with no hassle.
   Requires python3.
 ---
