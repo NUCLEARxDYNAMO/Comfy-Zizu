@@ -14,12 +14,12 @@
 ## 🖌️ Customization
 
 ---
-###Installation Method-1
+### Installation Method-1
 
 Use (https://github.com/ShaunakPemmaraju/Comfy-Zizu/blob/main/spicetify-theme-installer.py) to install the theme directly with no hassle.
   Requires python3.
 ---
-###Installation Method-2
+### Installation Method-2
 Remove the "main" suffix from the downloaded folder, and use
 
 > ./spicetify config current_theme Comfy-Zizu
