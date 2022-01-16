@@ -1,9 +1,12 @@
 {
     "name": "Comfy-Zizu",
-    "description": "Stay comfy in purple...",
-    "preview": "https://github.com/ohitstom/comfy-shadow/blob/main/preview.png?raw=true",
-    "readme": "README.md",
-    "usercss": "user.css",
-    "schemes": "color.ini",
-    "include": ["https://raw.githubusercontent.com/ohitstom/comfy-shadow/main/ComfyThemeDark.js"]
+    "description": "Stay Comfy in purple...",
+    "preview": "https://github.com/ShaunakPemmaraju/Comfy-Zizu/blob/main/preview-of-main",
+    "readme": "https://github.com/ShaunakPemmaraju/Comfy-Zizu/blob/main/README.md",
+    "usercss": "https://github.com/ShaunakPemmaraju/Comfy-Zizu/blob/main/user.css",
+    "schemes": "https://github.com/ShaunakPemmaraju/Comfy-Zizu/blob/main/color.ini",
+    "branch": "beta-release",
+    "authors": [
+        { "name": "NUCLEARxDYNAMO", "url": "https://github.com/ShaunakPemmaraju" }
+    ]
 }
